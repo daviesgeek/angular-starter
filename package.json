@@ -1,0 +1,22 @@
+{
+  "name": "angular-starter",
+  "version": "0.0.1",
+  "description": "Drop dead simple angular starter app",
+  "main": "app/app.js",
+  "authors": [
+    "Matthew Davies <daviesgeek@icloud.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.3.11",
+    "brunch": "^1.7.17",
+    "clean-css-brunch": "^1.7.1",
+    "css-brunch": "^1.7.0",
+    "jade": "^1.7.0",
+    "jaded-brunch": "^1.7.11",
+    "javascript-brunch": "^1.7.1",
+    "less-brunch": "^1.7.2",
+    "stylus-brunch": "^1.8.1",
+    "uglify-js-brunch": "^1.7.7"
+  }
+}

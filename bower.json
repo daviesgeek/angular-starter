@@ -1,0 +1,23 @@
+{
+  "name": "angular-starter",
+  "version": "0.0.1",
+  "authors": [
+    "Matthew Davies <daviesgeek@icloud.com>"
+  ],
+  "description": "Drop dead simple angular starter app",
+  "main": "app/app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.2.25",
+    "ui-router": "~0.2.11",
+    "restangular": "~1.4.0"
+  }
+}
